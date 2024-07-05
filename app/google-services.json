@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "727904870466",
+    "firebase_url": "https://apppemesanantiket-1438f-default-rtdb.firebaseio.com",
+    "project_id": "apppemesanantiket-1438f",
+    "storage_bucket": "apppemesanantiket-1438f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727904870466:android:d7458253cdd7b80ef40ddb",
+        "android_client_info": {
+          "package_name": "com.azhar.pemesanantiket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5GRmEHW37Tz54JBoPbp3d-ZfxYxTllE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
