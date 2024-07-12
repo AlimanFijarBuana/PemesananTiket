@@ -12,14 +12,14 @@
 
 ## Link Youtube Video Tutor : https://youtu.be/f0XBFusy8dY
 ## Deskripsi
-project ini merupakan hasil dari tugas Kelompok Kami yaitu Membuat Aplikasi PEMESANAN TIKET ONLINE Pada Mata Kuliah Pemrograman Mobile 2. Dengan bangga mempersembahkan Aplikasi E - TICKET yang inovatif dan ramah pengguna. Proyek ini dirancang untuk memberikan pengalaman terbaik dalam membeli tiket Transportasi seperti Kereta, Pesawat, dan Kapal Laut. Aplikasi ini dikembangkan menggunakan Android Studio dan terhubung dengan Firebase untuk memastikan kinerja yang optimal dan integrasi yang mulus.
+Project ini merupakan hasil dari tugas Kelompok Kami yaitu Membuat Aplikasi PEMESANAN TIKET ONLINE Pada Mata Kuliah Pemrograman Mobile 2. Dengan bangga mempersembahkan Aplikasi E - TICKET yang inovatif dan ramah pengguna. Proyek ini dirancang untuk memberikan pengalaman terbaik dalam membeli tiket Transportasi seperti Kereta, Pesawat, dan Kapal Laut. Aplikasi ini dikembangkan menggunakan Android Studio dan terhubung dengan Firebase untuk memastikan kinerja yang optimal dan integrasi yang mulus.
 
 Fitur Unggulan:
 
-1. Pencarian Cepat dan Akurat     : Temukan acara favorit Anda dengan mudah melalui fitur pencarian yang didukung oleh Firebase Firestore.
+1. Pencarian Cepat dan Akurat     : Temukan Tiket Transportasi yang Anda inginkan dengan mudah melalui fitur pencarian yang didukung oleh Firebase Firestore.
 2. Pemesanan Tiket Praktis        : Lakukan pemesanan tiket secara online dengan beberapa langkah sederhana langsung dari aplikasi E - TICKET.
 3. Manajemen Tiket Terintegrasi   : Pantau dan kelola semua tiket yang telah Anda beli dalam satu aplikasi.
-4. Notifikasi Real-Time           : Dapatkan notifikasi tentang acara mendatang, pengingat, dan status pemesanan tiket Anda melalui Firebase Cloud Messaging.
+4. Notifikasi Real-Time           : Dapatkan notifikasi tentang acara mendatang, pengingat, dan status pemesanan tiket Anda melalui Firebase.
 5. Antarmuka Modern dan Interaktif: Aplikasi dirancang dengan antarmuka modern dan interaktif untuk memberikan pengalaman pengguna yang optimal.
 
 Teknologi yang Digunakan:
